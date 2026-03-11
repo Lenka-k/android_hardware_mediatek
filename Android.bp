@@ -4,7 +4,6 @@ soong_namespace {
         "hardware/google/pixel",
 	    "hardware/mediatek",
     	"hardware/xiaomi",
-    	"hardware/mediatek/libmtkperf_client",
-    	"hardware/lineage/interfaces/power-libperfmgr",
+		"hardware/lineage/interfaces/power-libperfmgr",
     ],
 }

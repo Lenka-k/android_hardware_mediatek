@@ -2,5 +2,9 @@ soong_namespace {
     imports: [
         "hardware/google/interfaces",
         "hardware/google/pixel",
+	    "hardware/mediatek",
+    	"hardware/xiaomi",
+    	"hardware/mediatek/libmtkperf_client",
+    	"hardware/lineage/interfaces/power-libperfmgr",
     ],
 }
